@@ -2,7 +2,7 @@
 
 ### Stages
 #### Pre-Flop
-##### GTO
+###### GTO
 | Dependent Params | Independent Params |
 | ---------------- | ------------------ |
 | position | bet |
@@ -14,7 +14,7 @@
 | opposing-position-id |  |
 | opposing-position-bets |  |
 | opposing-position-reserves |  |
-##### Exploitative
+###### Exploitative
 | Dependent Params | Independent Params |
 | ---------------- | ------------------ |
 |  |  |
