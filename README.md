@@ -2,7 +2,7 @@
 
 ### Stages
 #### Pre-Flop
-###### GTO
+###### Game Theory Optimal
 | Dependent Params | Independent Params |
 | ---------------- | ------------------ |
 | position | bet |
