@@ -1,8 +1,7 @@
 # PokerAI
 
 #### Stages
-| Pre-Flop |
-| -------- |
+##### Pre-Flop
 | Dependent Params | Independent Params |
 | ---------------- | ------------------ |
 | position | action |
