@@ -1,23 +1,38 @@
 # PokerAI
 
-#### Stages
-##### Pre-Flop
+### Stages
+#### Pre-Flop
+##### GTO
+| Dependent Params | Independent Params |
+| ---------------- | ------------------ |
+| position | bet |
+| hand |  |
+| range |  |
+| reserves |  |
+| pot |  |
+| pot-odds |  |
+| opposing-position-id |  |
+| opposing-position-bets |  |
+| opposing-position-reserves |  |
+##### Exploitative
+| Dependent Params | Independent Params |
+| ---------------- | ------------------ |
+|  |  |
+
+#### Post-Flop
 | Dependent Params | Independent Params |
 | ---------------- | ------------------ |
 | position | action |
 | hand |  |
 
-##### Post-Flop
+#### Turn
 | Dependent Params | Independent Params |
 | ---------------- | ------------------ |
-|  |  |
+| position | action |
+| hand |  |
 
-##### Turn
+#### River
 | Dependent Params | Independent Params |
 | ---------------- | ------------------ |
-|  |  |
-
-##### River
-| Dependent Params | Independent Params |
-| ---------------- | ------------------ |
-|  |  |
+| position | action |
+| hand |  |
